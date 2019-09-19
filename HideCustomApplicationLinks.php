@@ -8,7 +8,7 @@ class HideCustomApplicationLinks extends \ExternalModules\AbstractExternalModule
         parent::__construct();
     }
     
-    public function redcap_module_system_enable($version) {
+    public function redcap_module_system_enable(string $version) {
         $this->setSystemSetting('enabled', true);
     }
 
@@ -22,5 +22,4 @@ class HideCustomApplicationLinks extends \ExternalModules\AbstractExternalModule
             <?php
         }
     }
-
 }

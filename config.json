@@ -4,7 +4,7 @@
 	"namespace": "uzgent\\HideCustomApplicationLinks",
         "framework-version": 3,
 
-	"description": "This module hides the custom application links in the left-hand menu of a project for all users (except superusers/users with Project Design and Setup rights.",
+	"description": "This module hides the custom application links in the left-hand menu of a project for all users (except super users/users with Project Design and Setup rights).",
 
 	"documentation": "README.md",
 
