@@ -19,6 +19,10 @@
 	"permissions": [
 		"redcap_every_page_top",
                 "redcap_module_system_enable"
-	]
+	],
+        
+        "compatibility": {
+                "php-version-min": "7.0.0"
+        }
         
 }
